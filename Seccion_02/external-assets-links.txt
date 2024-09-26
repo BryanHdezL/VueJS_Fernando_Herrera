@@ -1,0 +1,18 @@
+
+007 https-github.com-Klerith-javascript-intro
+https://github.com/Klerith/javascript-intro
+
+012 https-developer.mozilla.org-es-docs-Web-JavaScript-Reference-Global-Objects-Array-some
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/some
+
+017 https-developer.mozilla.org-es-docs-Web-JavaScript-Reference-Global-Objects-Array-filter
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
+017 https-developer.mozilla.org-es-docs-Web-JavaScript-Reference-Global-Objects-Array-find
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+
+020 https-developers.giphy.com-
+https://developers.giphy.com/
+
+021 https-www.npmjs.com-package-axios
+https://www.npmjs.com/package/axios
