@@ -1,0 +1,21 @@
+
+028 Most-Loved-Web-Framework-and-Library
+https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-web-frameworks-loved2
+
+028 -Qui-n-usa-Vue.js-
+https://medium.com/notonlycss/google-apple-and-other-users-of-vue-js-e4505359e5d5
+
+030 https-v3.vuejs.org-
+https://v3.vuejs.org/
+
+034 https-gist.github.com-Klerith-2cda65e18f4575b8e70fd8a5f12c0048
+https://gist.github.com/Klerith/2cda65e18f4575b8e70fd8a5f12c0048
+
+037 https-v3.vuejs.org-guide-events.html-event-modifiers
+https://v3.vuejs.org/guide/events.html#event-modifiers
+
+038 https-v3.vuejs.org-guide-conditional.html-v-show
+https://v3.vuejs.org/guide/conditional.html#v-show
+
+040 https-github.com-Klerith-vue-bases
+https://github.com/Klerith/vue-bases
