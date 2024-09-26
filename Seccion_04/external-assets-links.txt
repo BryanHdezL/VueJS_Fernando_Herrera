@@ -1,0 +1,12 @@
+
+049 https-v3.vuejs.org-guide-computed.html-computed-properties
+https://v3.vuejs.org/guide/computed.html#computed-properties
+
+051 https-v3.vuejs.org-guide-component-props.html-prop-types
+https://v3.vuejs.org/guide/component-props.html#prop-types
+
+053 https-v3.vuejs.org-guide-component-props.html-prop-validation
+https://v3.vuejs.org/guide/component-props.html#prop-validation
+
+054 https-github.com-Klerith-vue-fundamentos-cli-tree-fin-seccion-4
+https://github.com/Klerith/vue-fundamentos-cli/tree/fin-seccion-4
