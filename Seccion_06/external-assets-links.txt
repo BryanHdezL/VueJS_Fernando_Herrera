@@ -1,0 +1,12 @@
+
+068 https-jestjs.io-
+https://jestjs.io/
+
+073 https-jestjs.io-docs-setup-teardown
+https://jestjs.io/docs/setup-teardown
+
+079 https-vue-test-utils.vuejs.org-api-wrapper-
+https://vue-test-utils.vuejs.org/api/wrapper/
+
+083 https-github.com-Klerith-vue-fundamentos-cli-tree-fin-seccion-6
+https://github.com/Klerith/vue-fundamentos-cli/tree/fin-seccion-6
