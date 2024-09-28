@@ -1,0 +1,15 @@
+
+087 https-gist.github.com-Klerith-4c2c2d726a0c6875367174dcef49631c
+https://gist.github.com/Klerith/4c2c2d726a0c6875367174dcef49631c
+
+089 https-gist.github.com-Klerith-2f3d69f8b03de511fe87dd14fb7a235c
+https://gist.github.com/Klerith/2f3d69f8b03de511fe87dd14fb7a235c
+
+089 https-raw.githubusercontent.com-PokeAPI-sprites-master-sprites-pokemon-other-dream-world-1.svg
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg
+
+095 https-v3.vuejs.org-guide-component-custom-events.html-v-model-arguments
+https://v3.vuejs.org/guide/component-custom-events.html#v-model-arguments
+
+097 https-www.netlify.com-
+https://www.netlify.com/
