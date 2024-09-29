@@ -1,20 +1,23 @@
-// Importacion de modulos
-import pokemonApi from '@/api/pokemonApi';
+// Importaciones
+import pokemonApi from "@/api/pokemonApi";
 
-// Se crea el arreglo de 650 pokemons
+// Obtiene los primeros 650 pokemons en un arreglo
 const getPokemons = () => {
-  const pokemonArr = Array.from(Array(650))
-  return pokemonArr.map((_, index) => index + 1)
+  const pokemonsArr = Array.from(Array(650))
+
+  return pokemonsArr.map((_, index) => index + 1)
+
 }
 
-// Se optine el arreglo aleatorio de pokemons
+// Se seleccionan 4 pokemons para mostar
 const getPokemonOptions = async () => {
   const mixedPokemons = getPokemons().sort(() => Math.random() - 0.5)
-  const pokemons = await getPokemonNames(mixedPokemons.splice(0, 4))
+  const pokemons = await getPokemonNames(mixedPokemons.slice(0, 4))
+
   return pokemons
 }
 
-// Se seleccionan los primeros 4 pokemons del arreglo
+// Se obtiene el nombre de los 4 pokemons elegidos
 const getPokemonNames = async (pokemons = []) => {
   const promiseArr = [
     pokemonApi.get(`/${pokemons[0]}`),
@@ -22,15 +25,16 @@ const getPokemonNames = async (pokemons = []) => {
     pokemonApi.get(`/${pokemons[2]}`),
     pokemonApi.get(`/${pokemons[3]}`),
   ]
-  const [p1, p2, p3, p4] = await Promise.all(promiseArr)
+
+  const [pokemon1, pokemon2, pokemon3, pokemon4] = await Promise.all(promiseArr)
 
   return [
-    { name: p1.data.name, id: p1.data.id },
-    { name: p2.data.name, id: p2.data.id },
-    { name: p3.data.name, id: p3.data.id },
-    { name: p4.data.name, id: p4.data.id },
+    { name: pokemon1.data.name, id: pokemon1.data.id },
+    { name: pokemon2.data.name, id: pokemon2.data.id },
+    { name: pokemon3.data.name, id: pokemon3.data.id },
+    { name: pokemon4.data.name, id: pokemon4.data.id },
   ]
 }
 
-// Funciones exportadas
+// Exportaciones
 export default getPokemonOptions
